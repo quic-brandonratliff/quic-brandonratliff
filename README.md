@@ -1,6 +1,6 @@
 # Hi there, I'm Brandon Ratliff! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://media.licdn.com/dms/image/v2/D5616AQGb-uIH0LNOug/profile-displaybackgroundimage-shrink_350_1400/B56Z51Ap9zIUAU-/0/1780079567062?e=1781740800&v=beta&t=oBnFjvnwfyq26oCVygSIF-PMJggtdztXpfkNqV0C5Ew)
 
 ## About Me 🚀
 
