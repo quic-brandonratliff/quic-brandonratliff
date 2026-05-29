@@ -23,5 +23,5 @@ I'm a passionate digital marketing technologist and operations leader with exper
 
 ## Get in Touch 📬
 
-- **[Personal Website]**(https://www.brandonratliff.com/)
-- **[LinkedIn]**(https://www.linkedin.com/in/brandonratliff/)
+- **Website**(https://www.brandonratliff.com/)
+- **LinkedIn**(https://www.linkedin.com/in/brandonratliff/)
