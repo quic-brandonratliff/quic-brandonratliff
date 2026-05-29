@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Brandon Ratliff! 👋
 
-<!--
-**quic-brandonratliff/quic-brandonratliff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image](your_banner_image_url_here)
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate digital marketing technologist and operations leader with experience in martech, ai, front-end coding, and love all things digital. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: Claude Code and Claude Design - with integrations into tools like Figma
+- 🔭 Working on: Content Supply Chain, AI Transformation, Data & Analytics, Martech Ecosystem, Change Management, Cross-Collaboration, and trying to be the best version of me. No one is perfect.
+- 🌍 Languages: HTML, CSS, JS
+- 📫 How to reach me: bratliff@gmail.com
+- ⚡ Fun fact: I am drawn to the ocean like a magnet. It is my happy place. Nothing beats being in the salt water, in the waves, wet sand inbetween the toes, or above the water fishing for tasty fish.
+
+## My Skills 🧠
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AdobeCreativeCloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
+![AdobeDreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400) 
+
+*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+
+## Get in Touch 📬
+
+- **[Personal Website]**(https://www.brandonratliff.com/)
+- **[LinkedIn]**(https://www.linkedin.com/in/brandonratliff/)
