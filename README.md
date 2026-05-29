@@ -20,7 +20,6 @@ I'm a passionate digital marketing technologist and operations leader with exper
 ![AdobeCreativeCloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
 ![AdobeDreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400) 
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Get in Touch 📬
 
